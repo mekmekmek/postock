@@ -1,0 +1,316 @@
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM117: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_controls.pyc", line 1850, in AppendText
+  File "encodings\cp1252.pyc", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 57: character maps to <undefined>
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_core.pyc", line 9771, in Refresh
+TypeError: in method 'Window_Refresh', expected argument 1 of type 'wxWindow *'
+C:\Users\Benny\Desktop\Rostock\Printrun\dist\library.zip\pyglet\gl\gl_info.py:153: UserWarning: No GL context created yet.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 68, in open
+  File "serial\serialwin32.pyc", line 177, in _reconfigurePort
+ValueError: Cannot configure port, some setting was wrong. Original message: [Error 31] Ein an das System angeschlossenes Gerät funktioniert nicht.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM125: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_controls.pyc", line 1850, in AppendText
+  File "encodings\cp1252.pyc", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 57: character maps to <undefined>
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_controls.pyc", line 1850, in AppendText
+  File "encodings\cp1252.pyc", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 57: character maps to <undefined>
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_controls.pyc", line 1850, in AppendText
+  File "encodings\cp1252.pyc", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 27: character maps to <undefined>
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_controls.pyc", line 1850, in AppendText
+  File "encodings\cp1252.pyc", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 57: character maps to <undefined>
+Traceback (most recent call last):
+  File "wx\_core.pyc", line 14669, in <lambda>
+  File "wx\_controls.pyc", line 1850, in AppendText
+  File "encodings\cp1252.pyc", line 15, in decode
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 57: character maps to <undefined>
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 5] Zugriff verweigert
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
+Traceback (most recent call last):
+  File "pronterface.py", line 1566, in connect
+  File "printcore.pyc", line 76, in connect
+  File "serial\serialwin32.pyc", line 30, in __init__
+  File "serial\serialutil.pyc", line 260, in __init__
+  File "serial\serialwin32.pyc", line 56, in open
+serial.serialutil.SerialException: could not open port COM124: [Error 2] Das System kann die angegebene Datei nicht finden.
